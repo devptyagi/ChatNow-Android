@@ -1,7 +1,7 @@
 # ChatNow-Android
 
 A simple one-to-one chat application using Google Firebase.     
-OTP authentication to create profile, used Realtime Database for chat functionality, Allows the user to react to the messages.      
+OTP authentication to create profile, Realtime Database for chat functionality, Allows the user to react to the messages.      
 
 
 Voice Call feature, Stories, Attachments will be added in the next update.
